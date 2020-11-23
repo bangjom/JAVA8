@@ -1,3 +1,7 @@
+package Lamda;
+
+import Lamda.RunSomethingWithParameter;
+
 import java.util.function.*;
 
 

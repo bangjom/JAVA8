@@ -1,3 +1,5 @@
+package Lamda;
+
 import java.util.function.*;
 
 public class App {

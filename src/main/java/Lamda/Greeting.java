@@ -1,3 +1,4 @@
+package Lamda;
 
 public class Greeting {
     private String name;

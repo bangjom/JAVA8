@@ -1,12 +1,20 @@
-RunSomething.java
- RunSomething
-RunSomethingWithParameter.java
- RunSomethingWithParameter
-Plus10.java
- Plus10
-Foo.java
- Foo
-App.java
- App
-Greeting.java
- Greeting
+Lamda/Foo.java
+ Lamda.Foo
+Lamda/App.java
+ Lamda.App
+Lamda/RunSomethingWithParameter.java
+ Lamda.RunSomethingWithParameter
+Lamda/Greeting.java
+ Lamda.Greeting
+Lamda/Plus10.java
+ Lamda.Plus10
+Lamda/RunSomething.java
+ Lamda.RunSomething
+DefaultStatic/ImplementsDefaultStatic.java
+ DefaultStatic.ImplementsDefaultStatic
+DefaultStatic/DefaultStatic_child.java
+ DefaultStatic.DefaultStatic_child
+DefaultStatic/App.java
+ DefaultStatic.App
+DefaultStatic/DefaultStatic.java
+ DefaultStatic.DefaultStatic
