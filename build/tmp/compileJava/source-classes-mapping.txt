@@ -18,3 +18,9 @@ DefaultStatic/App.java
  DefaultStatic.App
 DefaultStatic/DefaultStatic.java
  DefaultStatic.DefaultStatic
+java8api/OnlineClass.java
+ java8api.OnlineClass
+java8api/App.java
+ java8api.App
+java8api/streamApp.java
+ java8api.streamApp
